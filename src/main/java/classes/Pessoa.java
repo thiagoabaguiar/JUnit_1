@@ -34,7 +34,7 @@ public class Pessoa {
     }
 
     public boolean maiorDeIdade() {
-        return this.getIdade() >= 18 ? true : false;
+        return this.getIdade() >= 18;
     }
 
     @Override
