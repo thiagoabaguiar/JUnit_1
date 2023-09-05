@@ -29,9 +29,4 @@ public class PessoaTest {
 
     }
 
-    @Test
-    @Disabled("Teste não implementado")
-    void deveRetornarIdade() {
-    }
-
 }
